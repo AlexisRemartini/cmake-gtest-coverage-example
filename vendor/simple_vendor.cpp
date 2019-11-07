@@ -3,6 +3,8 @@
 //
 
 #include "simple_vendor.h"
+#include <stdexcept>
+
 
 #define PRICE_MIN 5
 #define PRICE_MAX 105

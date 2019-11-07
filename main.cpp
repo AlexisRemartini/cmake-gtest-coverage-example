@@ -1,4 +1,5 @@
 #include <iostream>
+#include <stdexcept>
 #include "simple_vendor.h"
 
 using namespace std;
